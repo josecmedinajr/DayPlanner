@@ -1,0 +1,15 @@
+.jumbotron {
+    text-align: center;
+    color: black;
+    border-bottom: 7px solid black;
+    
+  }
+
+.row {
+    margin-bottom: 7px;
+    border-radius: 15px;
+}
+
+.input {
+    font-style: italic;
+}
