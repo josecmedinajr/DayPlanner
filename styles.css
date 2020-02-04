@@ -1,8 +1,12 @@
+.container {
+    background-color: rgba(229, 226, 226, 0.26);    
+}
+
 .jumbotron {
+    background-color:#4661a0;
     text-align: center;
-    color: black;
-    border-bottom: 7px solid black;
-    
+    color: white;
+    border-bottom: 7px solid black;      
   }
 
 .row {
