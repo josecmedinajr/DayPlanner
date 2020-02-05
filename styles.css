@@ -3,7 +3,14 @@ body {
 }
 
 .container {
-    background-color: rgba(229, 226, 226, 0.26);      
+    background-color: rgba(229, 226, 226, 0.26);        
+}
+
+.user-input {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 900px;
+    background-color: rgb(224, 215, 196);
 }
 
 .lead {
@@ -17,19 +24,19 @@ span {
 }
 
 .time-am {
-    background-color: #98afc7;
+    background-color: #c89481;
     color: white;
     border-radius: 10px;
 }
 
 .time-pm {
-    background-color: #667d95;
+    background-color: #70402f;
     color: white;
     border-radius: 10px;
 }
 
 .jumbotron {
-    background-color:#4661a0;
+    background-color: #703a28;
     text-align: center;
     color: white;
     border-bottom: 7px solid black;      
@@ -47,11 +54,11 @@ span {
 .data {
     font-style: italic;
     background-color:rgb(226, 225, 225);
-    width:900px;
+    width: 900px;
 }
 
-#save {
-    background-color: rgb(69, 69, 160);
+.save {
+    background-color: rgb(149, 52, 14);
     color: white;    
 }
 
