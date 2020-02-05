@@ -62,6 +62,15 @@ span {
     color: white;    
 }
 
+a {
+    font-weight: 600;
+    color: brown;    
+}
+
+a:hover {
+    color: brown;
+}
+
 footer {
     text-align: center;
 }
